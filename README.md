@@ -1,5 +1,6 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-≥7.0.0-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
+# TO BE SURE TO USE THE LATEST VERSION OF SnakeMAGs, PLEASE GO TO: https://github.com/Nachida08/SnakeMAGs 
 
 # About SnakeMAGs
 SnakeMAGs is a workflow to reconstruct prokaryotic genomes from metagenomes. The main purpose of SnakeMAGs is to process Illumina data from raw reads to metagenome-assembled genomes (MAGs).
