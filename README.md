@@ -1,6 +1,6 @@
 [![Snakemake](https://img.shields.io/badge/snakemake-≥7.0.0-brightgreen.svg?style=flat)](https://snakemake.readthedocs.io)
 
-# TO BE SURE TO USE THE LATEST VERSION OF SnakeMAGs, PLEASE GO TO: https://github.com/Nachida08/SnakeMAGs 
+# TO BE SURE TO USE THE LATEST VERSION OF *SnakeMAGs*, PLEASE GO TO: https://github.com/Nachida08/SnakeMAGs 
 
 # About SnakeMAGs
 SnakeMAGs is a workflow to reconstruct prokaryotic genomes from metagenomes. The main purpose of SnakeMAGs is to process Illumina data from raw reads to metagenome-assembled genomes (MAGs).
@@ -222,7 +222,7 @@ NB. These steps of mapping generate voluminous files such as .bam and .sam. Depe
 # Citations
 
 If you use SnakeMAGs, please cite:
-> Tadrent N, Dedeine F and Hervé V. *SnakeMAGs*: a simple, efficient, flexible and scalable workflow to reconstruct prokaryotic genomes from metagenomes [version 1; peer review: 1 approved, 1 approved with reservations]. F1000Research 2022, 11:1522 (https://doi.org/10.12688/f1000research.128091.1)
+> Tadrent N, Dedeine F and Hervé V. SnakeMAGs: a simple, efficient, flexible and scalable workflow to reconstruct prokaryotic genomes from metagenomes [version 2; peer review: 2 approved]. F1000Research 2023, 11:1522 (https://doi.org/10.12688/f1000research.128091.2)
 
 Please also cite the dependencies:
 - [Snakemake](https://doi.org/10.12688/f1000research.29032.2) : Mölder, F., Jablonski, K. P., Letcher, B., Hall, M. B., Tomkins-tinch, C. H., Sochat, V., Forster, J., Lee, S., Twardziok, S. O., Kanitz, A., Wilm, A., Holtgrewe, M., Rahmann, S., Nahnsen, S., & Köster, J. (2021) Sustainable data analysis with Snakemake [version 2; peer review: 2 approved]. *F1000Research* 2021, 10:33.
